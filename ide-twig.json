@@ -1,0 +1,8 @@
+{
+  "namespaces": [
+    {
+      "namespace": "users-geocode",
+      "path": "Resources/view"
+    }
+  ]
+}
